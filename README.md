@@ -35,7 +35,8 @@ from .models import car,caradmin
 admin.site.register(car,caradmin)
 ```
 # OUTPUT
-![Uploading Screenshot 2025-09-28 140544.png…]()
+<img width="1059" height="498" alt="output" src="https://github.com/user-attachments/assets/0772f8c5-8747-494b-9a14-1825756325a2" />
+
 
 
 # RESULT
