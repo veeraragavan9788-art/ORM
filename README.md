@@ -35,7 +35,8 @@ from .models import car,caradmin
 admin.site.register(car,caradmin)
 ```
 # OUTPUT
-Screenshot 2025-09-28 140544
+![Uploading Screenshot 2025-09-28 140544.png…]()
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
